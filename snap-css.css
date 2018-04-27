@@ -1,0 +1,14 @@
+.bacon {
+	text-align: center;
+	font-family: monospace;
+}
+
+.sausage {
+	text-decoration-color: cadetblue;
+	line-height: 4em;
+}
+
+#porkchop {
+	align-content: end;
+	font-family: sans-serif;
+}
